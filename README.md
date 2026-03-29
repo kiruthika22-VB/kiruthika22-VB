@@ -1,16 +1,23 @@
-## Hi there 👋
+# Fake News Detection 📰
 
-<!--
-**kiruthika22-VB/kiruthika22-VB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Description
+This project detects whether news is REAL or FAKE using Machine Learning / Deep Learning.
 
-Here are some ideas to get you started:
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn / TensorFlow
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How it works
+1. Input news text
+2. Model processes text
+3. Output: FAKE or REAL
+
+## Output Example
+Fake News Detection model predicts:
+- FAKE ❌
+- REAL ✅
+
+## Author
+Your Name: Kiruthika 
