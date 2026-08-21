@@ -21,3 +21,5 @@ Fake News Detection model predicts:
 
 ## Author
 Your Name: Kiruthika 
+
+https://kiruthika22-vb.github.io/kiruthika22-VB/
